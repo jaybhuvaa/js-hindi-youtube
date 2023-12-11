@@ -1,4 +1,4 @@
-//  Primitive
+//  Primitive --> it gives copy of value to the variable
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
 
@@ -18,7 +18,7 @@ console.log(id === anotherId);
 
 
 
-// Reference (Non primitive)
+// Reference (Non primitive) --> changes direclty made to the memory
 
 // Array, Objects, Functions
 
