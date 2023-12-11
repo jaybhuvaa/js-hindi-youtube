@@ -17,7 +17,7 @@ let isLoggedIn = "hitesh"
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 //  console.log(booleanIsLoggedIn);
 
-// 1 => true; 0 => false
+// 1 => true; 0 => false ,any other number than 0 it will be true
 // "" => false
 // "hitesh" => true
 
@@ -46,10 +46,10 @@ let str2 = " hitesh"
 let str3 = str1 + str2
 // console.log(str3);
 
-// console.log("1" + 2);
-// console.log(1 + "2");
-// console.log("1" + 2 + 2);
-// console.log(1 + 2 + "2");
+  // console.log("1" + 2);
+  // console.log(1 + "2");
+  // console.log("1" + 2 + 2);
+  // console.log(1 + 2 + "2");
 
 // console.log( (3 + 4) * 5 % 3);
 
